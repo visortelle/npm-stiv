@@ -1,0 +1,41 @@
+{
+  "name": "visortelle",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "^6.1.18",
+    "babelify": "*",
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-browserify": "^0.5.1",
+    "gulp-imagemin": "*",
+    "gulp-jade": "*",
+    "gulp-minify-css": "*",
+    "gulp-postcss": "*",
+    "gulp-rigger": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "imagemin-pngquant": "*",
+    "lodash": "^3.10.1",
+    "normalize.css": "^3.0.3",
+    "postcss-bem": "*",
+    "postcss-color-alpha": "*",
+    "postcss-color-mix": "*",
+    "postcss-functions": "*",
+    "postcss-mixins": "*",
+    "postcss-nested": "*",
+    "postcss-simple-vars": "*",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "rimraf": "*"
+  }
+}
