@@ -1,6 +1,6 @@
 {
   "name": "npm-stiv",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Converts stars in package.json file to current versions of modules;",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
