@@ -14,7 +14,8 @@
     "npm",
     "stars",
     "current",
-    "version"
+    "version",
+    "asterix"
   ],
   "author": "visortelle",
   "license": "MIT",
