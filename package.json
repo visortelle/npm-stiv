@@ -25,5 +25,6 @@
   "homepage": "https://github.com/visortelle/npm-stiv#readme",
   "dependencies": {
     "yargs": "^3.30.0"
-  }
+  },
+  "bin": {"npm-stiv": "./index.js"}
 }
