@@ -1,5 +1,5 @@
 {
-  "name": "pjson-stars-converter",
+  "name": "npm-stiv",
   "version": "1.0.0",
   "description": "Converts stars in package.json file to current versions of modules;",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/visortelle/pjson-stars-converter.git"
+    "url": "git+https://github.com/visortelle/npm-stiv.git"
   },
   "keywords": [
     "npm",
@@ -19,9 +19,9 @@
   "author": "visortelle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/visortelle/pjson-stars-converter/issues"
+    "url": "https://github.com/visortelle/npm-stiv/issues"
   },
-  "homepage": "https://github.com/visortelle/pjson-stars-converter#readme",
+  "homepage": "https://github.com/visortelle/npm-stiv#readme",
   "dependencies": {
     "yargs": "^3.30.0"
   }
