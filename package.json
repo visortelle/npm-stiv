@@ -2,7 +2,6 @@
   "name": "npm-stiv",
   "version": "1.0.5",
   "description": "Converts stars in package.json file to current versions of modules;",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +18,7 @@
   ],
   "author": "visortelle",
   "license": "MIT",
+  "preferGlobal": true,
   "bugs": {
     "url": "https://github.com/visortelle/npm-stiv/issues"
   },
@@ -27,6 +27,6 @@
     "yargs": "^3.30.0"
   },
   "bin": {
-    "npm-stiv": "./index.js"
+    "npm-stiv": "index.js"
   }
 }
