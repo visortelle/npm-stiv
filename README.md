@@ -1,7 +1,7 @@
 # npm-stiv
 ## Stars To Installed Versions
 
-Converts stars(asterix) in package.json's deps to installed versions. 
+Converts stars(asterisks) in package.json's deps to installed versions. 
 ###Installation 
 ```bash
 npm install -g npm-stiv
